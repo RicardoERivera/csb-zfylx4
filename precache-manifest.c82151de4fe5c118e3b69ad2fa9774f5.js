@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cd97de2cd728bb86cdebd37ddffa12b",
+    "revision": "f04d2d857ac50a489357adda8c102c16",
     "url": "https://ricardoerivera.github.io/csb-zfylx4/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ricardoerivera.github.io/csb-zfylx4/static/js/2.1fb52d13.chunk.js"
   },
   {
-    "revision": "dcc41e6536d937c06b8d",
-    "url": "https://ricardoerivera.github.io/csb-zfylx4/static/js/main.bb82ef6d.chunk.js"
+    "revision": "3fa7eb97259c8d97680c",
+    "url": "https://ricardoerivera.github.io/csb-zfylx4/static/js/main.f8a7a908.chunk.js"
   },
   {
     "revision": "bb6fb5589b4e052e5848",

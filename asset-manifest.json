@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "https://ricardoerivera.github.io/csb-zfylx4/static/js/main.bb82ef6d.chunk.js",
-    "main.js.map": "https://ricardoerivera.github.io/csb-zfylx4/static/js/main.bb82ef6d.chunk.js.map",
+    "main.js": "https://ricardoerivera.github.io/csb-zfylx4/static/js/main.f8a7a908.chunk.js",
+    "main.js.map": "https://ricardoerivera.github.io/csb-zfylx4/static/js/main.f8a7a908.chunk.js.map",
     "runtime-main.js": "https://ricardoerivera.github.io/csb-zfylx4/static/js/runtime-main.1ad2fdd4.js",
     "runtime-main.js.map": "https://ricardoerivera.github.io/csb-zfylx4/static/js/runtime-main.1ad2fdd4.js.map",
     "static/js/2.1fb52d13.chunk.js": "https://ricardoerivera.github.io/csb-zfylx4/static/js/2.1fb52d13.chunk.js",
     "static/js/2.1fb52d13.chunk.js.map": "https://ricardoerivera.github.io/csb-zfylx4/static/js/2.1fb52d13.chunk.js.map",
     "index.html": "https://ricardoerivera.github.io/csb-zfylx4/index.html",
-    "precache-manifest.5c81af2b9f7cfe50e8c13cdd0862f9f0.js": "https://ricardoerivera.github.io/csb-zfylx4/precache-manifest.5c81af2b9f7cfe50e8c13cdd0862f9f0.js",
+    "precache-manifest.c82151de4fe5c118e3b69ad2fa9774f5.js": "https://ricardoerivera.github.io/csb-zfylx4/precache-manifest.c82151de4fe5c118e3b69ad2fa9774f5.js",
     "service-worker.js": "https://ricardoerivera.github.io/csb-zfylx4/service-worker.js",
     "static/media/black-ribbon-5704823_1280.png": "https://ricardoerivera.github.io/csb-zfylx4/static/media/black-ribbon-5704823_1280.46493c39.png",
     "static/media/foto1.jpg": "https://ricardoerivera.github.io/csb-zfylx4/static/media/foto1.7edb61b4.jpg",
@@ -110,6 +110,6 @@
   "entrypoints": [
     "static/js/runtime-main.1ad2fdd4.js",
     "static/js/2.1fb52d13.chunk.js",
-    "static/js/main.bb82ef6d.chunk.js"
+    "static/js/main.f8a7a908.chunk.js"
   ]
 }
